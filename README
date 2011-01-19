@@ -1,0 +1,9 @@
+Someone said they would like to:
+
+use Common::Sense
+
+at the top of their Perl scripts. I thought this was amusing...
+
+http://www.reddit.com/r/perl/comments/f4e14/please_share_your_modern_perl_boilerplate/c1d7q0r
+
+This is basically just Modern::Perl, you should probably use that instead.
